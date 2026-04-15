@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Suffi
 
-🚀 Software Engineer | Founder @ Dbits  
+🚀 Software Engineer | CTO @Dbits
 💡 I build scalable systems, SaaS platforms, and production-ready APIs  
 
 ---
@@ -11,16 +11,6 @@
 - 🧠 Architect scalable SaaS solutions
 - 🔄 Automate workflows & business processes
 - 🤖 Integrate AI-powered features & tools
-
----
-
-## 🏗️ Real Work (Not Just Tutorials)
-- 🔹 E-commerce systems (Cart, Orders, Reviews, Filters)
-- 🔹 Document Management System (DMS)
-- 🔹 CRM solutions with automation workflows
-- 🔹 Real-time apps using SignalR
-- 🔹 AI integrations (OpenAI APIs, chatbots)
-
 ---
 
 ## 🧰 Tech Stack
@@ -28,7 +18,6 @@
 - 🗄️ SQL Server, MySQL, PostgreSQL
 - ⚡ Dapper, Entity Framework
 - 🌐 Angular, JavaScript, jQuery
-- 📱 Flutter (Mobile Apps)
 - 🔧 Git, Azure DevOps
 
 ---
@@ -36,7 +25,7 @@
 ## 🎯 Current Focus
 - Scaling SaaS products
 - Clean architecture & performance
-- Building reusable systems (not hacks)
+- Building reusable systems
 
 ---
 
