@@ -48,9 +48,9 @@ I build systems that solve real business problems and scale.
 
 ## 📊 GitHub Stats
 
-![Suffi's GitHub stats](https://github-readme-stats.vercel.app/api?username=suffiullah&show_icons=true&theme=radical)
+![Suffi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suffiullah&show_icons=true&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=suffiullah&layout=compact)
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=suffiullah&layout=compact)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=suffiullah)
 
