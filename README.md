@@ -50,7 +50,3 @@ I build systems that solve real business problems and scale.
 
 ![Suffi's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=suffi-u-llah&show_icons=true&theme=radical)
 
----
-
-## 📫 Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/suffiullah
